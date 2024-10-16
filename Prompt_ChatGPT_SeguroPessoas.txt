@@ -1,0 +1,20 @@
+Seguro de pessoas é um tipo de contrato que protege o segurado e seus beneficiários de imprevistos, como doenças, acidentes ou falecimento. Ele oferece uma indenização que pode ser usada para cobrir despesas médicas, dívidas ou manter o padrão de vida da família. 
+
+O seguro de pessoas abrange diferentes tipos de seguros, como:
+1) Seguro de vida
+2) Seguro funeral
+3) Seguro de acidentes pessoais
+4) Seguro educacional
+5) Seguro viagem
+6) Seguro prestamista
+7) Seguro de diária por internação hospitalar
+8) Seguro desemprego 
+
+As coberturas do seguro de pessoas podem ser contratadas em conjunto ou separadamente. O capital segurado é estipulado pelo proponente, que pode contratar mais de um seguro sobre o mesmo interesse.
+
+Acima, temos uma planilha de demandas, recebidas por meio do sistema Fala.BR, relativas a apólices de seguro de pessoas. Por favor produza 86 novas demandas, compativeis com as demandas apresentadas na planilha e tratando de diferentes características dos contratos de seguro de pessoas, com até 400 palavras. 
+
+As novas demandas devem variar em termos de dificuldades técnicas, solicitações administrativas, questões envolvendo o segurado, alterações nas apólices  e dificuldade no recebimento da indenização. Além disso, as novas demandas não podem ser repetidas. Caso exista um número de apólice, ele deverá ser sempre 123. As novas demandas deverão estar em uma planilha compatível com o formato do arquivo original.
+
+As novas demandas não devem explicitar o tema da demanda e devem começar de forma variada.
+

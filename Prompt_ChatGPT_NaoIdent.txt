@@ -1,0 +1,6 @@
+Acima, temos uma planilha de demandas, recebidas por meio do sistema Fala.BR, relativas a assuntos cuja classificação não foi possível identificar. Por favor produza 183 novas demandas, compativeis com as demandas apresentadas na planilha e de forma que pareça que foi feita por um humano de instrução média, sem utilizar a palavra-chave, com até 400 palavras. 
+
+As novas demandas não podem ser repetidas. Caso exista um número de apólice, ele deverá ser sempre 123. As novas demandas deverão estar em uma planilha compatível com o formato do arquivo original.
+
+As novas demandas não devem explicitar o tema da demanda e devem começar de forma variada.
+

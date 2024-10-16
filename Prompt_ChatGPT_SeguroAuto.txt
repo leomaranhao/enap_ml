@@ -1,0 +1,24 @@
+O seguro auto é um contrato entre o proprietário de um veículo e uma seguradora, que se compromete a cobrir danos ao carro, a terceiros ou ao motorista em caso de acidentes, roubos, falhas mecânicas, entre outros. O seguro auto é opcional, diferente do DPVAT, que é obrigatório no Brasil e cobre despesas médicas e indenizações em caso de acidentes de trânsito. 
+
+O seguro auto pode incluir coberturas como: 
+1) Danos ao veículo, 
+2) Danos a terceiros
+3) Danos por colisão
+4) Assistência 24 horas
+5) Reboque
+6) Socorro mecânico
+7) Meio de transporte alternativo
+8) Hospedagem
+9) Serviço de chaveiro
+10) Substituição de pneus 
+
+O valor do seguro auto depende de vários fatores, como: Marca e ano do carro, Idade do motorista, Uso do carro, Segurança na região de circulação, Políticas da seguradora. 
+
+Para acionar o seguro, o contratante deve pagar uma franquia, que é um valor estipulado em contrato. A franquia é cobrada apenas em caso de conserto do veículo do próprio contratante, e se o dano for parcial.
+
+Acima, temos uma planilha de demandas, recebidas por meio do sistema Fala.BR, relativas a apólices de seguro auto. Por favor produza 233 novas demandas, compativeis com as demandas apresentadas na planilha e tratando de diferentes características dos contratos de seguro auto, com até 400 palavras. 
+
+As novas demandas devem variar em termos de dificuldades técnicas, solicitações administrativas, questões envolvendo o segurado, alterações nas apólices e dificuldade no recebimento da indenização. Além disso, as novas demandas não podem ser repetidas. Caso exista um número de apólice, ele deverá ser sempre 123. As novas demandas deverão estar em uma planilha compatível com o formato do arquivo original.
+
+As novas demandas não devem explicitar o tema da demanda e devem começar de forma variada.
+
