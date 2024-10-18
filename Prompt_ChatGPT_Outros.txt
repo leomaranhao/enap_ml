@@ -1,0 +1,6 @@
+Acima, temos uma planilha de demandas, recebidas por meio do sistema Fala.BR, relativas aos assuntos 'Capitalização', 'Seguro Compreensivo', 'Consulta Técnica', 'Seguro Fiança Locatícia', 'Seguro de Transportes', 'Seguro de Responsabilidade', 'Seguro de Crédito Interno', 'Seguro Rural' e 'Seguro Garantia Estendida'. Por favor produza 331 novas demandas, compativeis com as demandas apresentadas na planilha e de forma que pareça que foi feita por um humano de instrução média, sem utilizar a palavra-chave, com até 400 palavras. 
+
+As novas demandas não podem ser repetidas. Caso exista um número de documento, ele deverá ser sempre 123. As novas demandas deverão estar em uma planilha compatível com o formato do arquivo original.
+
+As novas demandas não devem explicitar o tema da demanda e devem começar de forma variada.
+
