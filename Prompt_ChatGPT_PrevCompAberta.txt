@@ -4,11 +4,22 @@ O funcionamento da previdência privada aberta é semelhante ao da previdência 
 
 Existem dois tipos de previdência privada aberta, com diferentes benefícios fiscais. Os planos mais negociados são o Plano Gerador de Benefício Livre (PGBL) e o Vida Gerador de Benefício Livre (VGBL). A principal diferença entre eles é o tratamento tributário. 
 
-A previdência privada aberta é uma opção para quem deseja investir para a aposentadoria e não tem um fundo de pensão. 
+A previdência privada aberta é um plano previdenciário disponível para qualquer pessoa, que pode ser oferecido por sociedades seguradoras ou entidades abertas de previdência complementar (EAPCs). 
 
-Acima, temos uma planilha de demandas, recebidas por meio do sistema Fala.BR, relativas a planos de previdência complementar aberta. Por favor produza 311 novas demandas, compativeis com as demandas apresentadas na planilha e tratando de diferentes características dos planos de previdência, com até 400 palavras. 
+Os contratantes dos planos previdenciários fazem aportes no planos, ou seja, fazem contribuições em valores monetários. Esses valores vão sendo investidos ao longo do tempo pela empresa contratada. ao final de um prazo, o contratante pode recuperar os valores depositados.
+
+A previdência privada aberta tem as seguintes características: 
+1) É um investimento que pode ser utilizado para garantir uma vida financeira mais tranquila no futuro. 
+2) Não há uma frequência obrigatória de aportes, ou seja, o investidor pode escolher quando e quanto deseja investir. 
+3) O investidor escolhe um fundo de investimento no qual a seguradora investe os valores aportados. 
+4) É possível realizar resgates sem restrições, respeitando um período de carência de 60 dias. 
+5) Os planos de previdência complementar abertos recebem estímulo do governo. 
+
+Os planos do Segmento de Previdência Complementar Aberta mais negociados são o Plano Gerador de Benefício Livre (PGBL) e o Vida Gerador de Benefício Livre (VGBL). 
+
+Acima, temos uma planilha de demandas, recebidas por meio do sistema Fala.BR, relativas a planos de previdência complementar aberta. Por favor produza 311 novas demandas, compativeis com as demandas apresentadas na planilha e tratando de diferentes características dos planos de previdência, com até 500 palavras e, no mínimo, 100 palavras.
 
 As novas demandas devem variar em termos de dificuldades técnicas, solicitações administrativas, questões envolvendo o benefício e alterações nos contratos Além disso, as novas demandas não podem ser repetidas. Caso exista um número de contrato, ele deverá ser sempre 123. As novas demandas deverão estar em uma planilha compatível com o formato do arquivo original.
 
-As novas demandas não devem explicitar o tema da demanda e devem começar de forma variada.
+As novas demandas devem começar de forma variada. Não podem existir demandas repetidas.
 
